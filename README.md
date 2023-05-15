@@ -1,6 +1,6 @@
 
 
-<img src="./images/portfolio.png">
+<img src="./Images/portfolio.png">
 
 
 The applicaiton helps evaluate the financial health health of a persons crypto, bonds and stock holds. It helps assess the monthly budgets and second, it forecast a reasonably effective retirement plan based on the current holdings of cryptocurrencies, stocks, and bonds. 
@@ -23,17 +23,17 @@ Crypto - https://api.alternative.me/
 
 
 #### 30 Year Return - Simulation
-<img src="./images/30_Year_Simulation.png">
+<img src="./Images/30_Year_Simulation.png">
 
 #### 30 Year Return - Distribution
-<img src="./images/30_Year_Distribution.png">
+<img src="./Images/30_Year_Distribution.png">
 
 
 #### 10 Year Return - Simulation
-<img src="./images/10_Year_Simulation.png">
+<img src="./Images/10_Year_Simulation.png">
 
 #### 10 Year Return - Distribution
-<img src="./images/10_Year_Distribution.png">
+<img src="./Images/10_Year_Distribution.png">
 
 ---
 
