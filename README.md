@@ -1,9 +1,9 @@
 
 
-<img src="./Images/portfolio.png">
+<img src="./Images/Portfolio">
 
 
-The applicaiton helps evaluate the financial health health of a persons crypto, bonds and stock holds. It helps assess the monthly budgets and second, it forecast a reasonably effective retirement plan based on the current holdings of cryptocurrencies, stocks, and bonds. 
+The applicaiton helps evaluate the financial health health of a persons crypto, bonds and stock holdings. It helps assess the monthly budgets and forecast a reasonably effective retirement plan based on the current holdings. 
 
 
 The application accesses the current financial data related to cryptocurrenies, stocks, and bond market using API. The application gets the latest data from API calls to Alpaca and Alternative.me. Application also runs Monte Carlo simulation to analayse the future returns of the portfolio.
